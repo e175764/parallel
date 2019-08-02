@@ -1,0 +1,14 @@
+{
+    "": "Inflation.pyの水増しする画像が入ったデータのディレクトリのパスを記述。",
+    "images": "/Users/e175764/Desktop/Third/parallel/Data/",
+    "": ".npyとしてデータを保存する際の保存先のディレクトリ",
+    "save_npy": "/Users/e175764/Desktop/Third/parallel/",
+    "": "Inflation.pyから水増しした画像のメタデータを出力するディレクトリのパスを記述。",
+    "sav": "/Users/e175764/Desktop/parallel/",
+    "": "modeling.pyではPreprocessing.pyで作成したnpyのデータから学習モデルを生成させる。その.npyの保存先のディレクトリを示す必要がある。これは上述したsave_npyと等しいのでそれを再利用する。モデルの保存と重みの保存はしなければならないので、保存先のディレクトリを記述する。",
+    "model": "/Users/e175764/Desktop/Third/parallel",
+    "weight": "/Users/e175764/Desktop/Third/parallel",
+    "infx":"/Users/e175764/Desktop/Third/parallel/x_data",
+    "infy":"/Users/e175764/Desktop/Third/parallel/y_data"
+}
+
